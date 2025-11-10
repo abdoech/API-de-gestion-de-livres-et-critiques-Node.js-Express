@@ -191,9 +191,9 @@ curl -X PUT http://localhost:3000/api/users/books/isbn/978-0-123456-78-9/review 
 ## Utilisateur de test
 
 Un utilisateur de test est inclus dans `data/books.json`:
-- **Username:** `alice123`
-- **Password:** `password123`
-- **Email:** `alice@example.com`
+- **Username:** `test1`
+- **Password:** `test1`
+- **Email:** `test@gmail.com`
 
 Vous pouvez utiliser ces identifiants pour tester la connexion et les fonctionnalités réservées aux utilisateurs enregistrés.
 
